@@ -1,0 +1,1 @@
+{"version":3,"file":"getConfigFileName.js","sourceRoot":"","sources":["getConfigFileName.ts"],"names":[],"mappings":"AAAA;;;GAGG;AACH,MAAM,CAAC,MAAM,iBAAiB,GAAG,CAAC,GAAwB,EAAE,EAAE;IAC5D,OAAO,iBAAiB,GAAG,CAAC,wBAAwB,IAAI,OAAO,UAAU;SACtE,WAAW,EAAE;SACb,OAAO,CAAC,KAAK,EAAE,EAAE,CAAC,CAAC;AACxB,CAAC,CAAC"}

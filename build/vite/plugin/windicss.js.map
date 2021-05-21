@@ -1,0 +1,1 @@
+{"version":3,"file":"windicss.js","sourceRoot":"","sources":["windicss.ts"],"names":[],"mappings":"AAEA,OAAO,QAAQ,MAAM,sBAAsB,CAAC;AAE5C,MAAM,UAAU,oBAAoB;IAClC,OAAO,QAAQ,CAAC;QACd,QAAQ,EAAE,WAAW;QACrB,SAAS,EAAE;YACT,SAAS,EAAE,IAAI;SAChB;KACF,CAAC,CAAC;AACL,CAAC"}
